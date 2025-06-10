@@ -1,0 +1,142 @@
+{
+  "language": "pt-BR",
+  "theme": {
+    "primaryColor": "#FFD700",
+    "backgroundColor": "#0F0F0F",
+    "fontFamily": "Inter, sans-serif"
+  },
+  "maintenance": {
+    "enabled": false,
+    "message": "Estamos em manutenção. Retornamos em breve."
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "props": {
+        "title": "Domine jurisprudência com método, clareza e estratégia.",
+        "subtitle": "Transforme julgados em aprovação com nossa metodologia exclusiva.",
+        "cta": {
+          "text": "Quero estudar com estratégia",
+          "link": "#planos",
+          "style": "primary"
+        },
+        "image": {
+          "url": "https://cdn.jurisprudenciaemquestoes.com.br/hero-bg.png",
+          "alt": "Estudante lendo questão jurídica"
+        }
+      }
+    },
+    {
+      "type": "features",
+      "props": {
+        "title": "Por que usar nosso material?",
+        "items": [
+          {
+            "icon": "🧠",
+            "title": "Questões com storytelling jurídico",
+            "description": "Você aprende os detalhes do julgado por meio de uma única questão bem construída."
+          },
+          {
+            "icon": "📥",
+            "title": "Compilações por matéria e informativo",
+            "description": "Organização que facilita a revisão e o estudo direcionado."
+          },
+          {
+            "icon": "📚",
+            "title": "Estilo das principais bancas",
+            "description": "CEBRASPE (certo/errado) e FGV (múltipla escolha) com clareza e didática."
+          }
+        ]
+      }
+    },
+    {
+      "type": "how_it_works",
+      "props": {
+        "title": "Como funciona",
+        "steps": [
+          {
+            "title": "Receba os materiais",
+            "description": "Toda semana, você recebe novas questões baseadas nos informativos mais recentes do STF e STJ."
+          },
+          {
+            "title": "Estude com lógica e clareza",
+            "description": "Nossas questões apresentam a história, o conflito e a decisão com foco em fixação."
+          },
+          {
+            "title": "Revise com facilidade",
+            "description": "Com compilações e sumários, você encontra tudo o que precisa para revisar rapidamente."
+          }
+        ]
+      }
+    },
+    {
+      "type": "pricing",
+      "props": {
+        "title": "Assine e comece agora",
+        "plans": [
+          {
+            "name": "Plano Premium",
+            "price": "R$ 69,90/mês",
+            "features": [
+              "Todas as questões CE e ME",
+              "Compilações por disciplina",
+              "Atualização semanal",
+              "Notas de rodapé com base legal",
+              "Acesso ao histórico desde março/2025"
+            ],
+            "cta": {
+              "text": "Assinar agora",
+              "link": "https://hotmart.com/exemplo"
+            },
+            "recommended": true
+          }
+        ]
+      }
+    },
+    {
+      "type": "testimonial",
+      "props": {
+        "title": "Quem criou isso?",
+        "testimonials": [
+          {
+            "name": "Alex",
+            "role": "Promotor de Justiça no PA",
+            "avatar": "https://cdn.jurisprudenciaemquestoes.com.br/avatar-alex.png",
+            "quote": "A gente não quer que você leia julgados por ler. A gente quer que você entenda, grave e aplique."
+          }
+        ]
+      }
+    },
+    {
+      "type": "faq",
+      "props": {
+        "title": "Dúvidas Frequentes",
+        "items": [
+          {
+            "question": "As questões vêm comentadas?",
+            "answer": "Sim! As questões múltipla escolha têm comentário logo após o enunciado. As de certo/errado seguem o modelo CEBRASPE."
+          },
+          {
+            "question": "Vocês têm material de 2024 e 2023?",
+            "answer": "Sim. O de 2024 será publicado no segundo semestre. O de 2023 ainda sem previsão."
+          },
+          {
+            "question": "Tem fidelidade ou multa?",
+            "answer": "Não! Você pode cancelar a qualquer momento direto na Hotmart."
+          }
+        ]
+      }
+    },
+    {
+      "type": "cta_final",
+      "props": {
+        "title": "Está pronto para mudar seu estudo?",
+        "subtitle": "Clique abaixo e comece agora com quem transforma jurisprudência em aprovação.",
+        "cta": {
+          "text": "Quero começar agora",
+          "link": "https://hotmart.com/exemplo"
+        }
+      }
+    }
+  ]
+}
